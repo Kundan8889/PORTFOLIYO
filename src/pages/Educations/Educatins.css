@@ -25,3 +25,19 @@
 .education p{
     color: #fa18e7;
 }
+/* -----------------Media queary---------------- */
+@media (max-width:600){
+    .education{
+      padding: 0;
+      margin: 0;
+      margin-top: 20px;
+      width: 100%;
+    }
+    .education h2{
+        padding: 20px;
+    }
+    .education hr{
+        width: 280px;
+        margin-bottom: 10px;
+    }
+}
