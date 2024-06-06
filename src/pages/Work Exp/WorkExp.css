@@ -1,0 +1,23 @@
+.work {
+    margin-left: 140px;
+    background-color: rgba(127, 196, 135, 0.224);
+}
+.work-exp{
+    padding: 60px 0px;
+}
+.work-exp{
+    padding: 60px 0px;
+}
+.work-exp h2 {
+    font-weight: bold;
+    color: #138781;
+}
+.vertical-timeline-element-title{
+color: darkmagenta;
+}
+.vertical-timeline-element-subtitle{
+    color: rgb(89, 255, 0);
+}
+p{
+    color: tomato;
+}

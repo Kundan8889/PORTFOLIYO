@@ -1,0 +1,132 @@
+.project {
+    padding-left: 130px;
+    margin-top: 60px;
+}
+.project hr {
+    color: #138781;
+    width: 400px;
+    margin: 10px auto;
+}
+.project h2 {
+    font-weight: bold;
+    color: #138781;
+}
+#ads {
+    margin: 32px 0px 34px 0;
+    margin-top: 100px;
+    margin-left: 86px;
+}
+.row {
+    margin-top: 20px;
+}
+
+.project .card-body {
+    text-align: center;
+    color: #138781;
+    margin-top: 23px;
+}
+
+.project .card-body .ad-title {
+    text-align: center;
+}
+
+#ads .card-notify-badge {
+    position: absolute;
+    width: 21%;
+    height: 30px 40px;
+    display: block;
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    color: black;
+    padding: 6px 4px;
+    margin: -14px -11px;
+    font-size: 12px;
+    border-radius: 40px 40px;
+    margin-top: 20px 4px 45px 54px;
+}
+
+.project .card img {
+    height: 175px;
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+.project .card .img2 {
+    height: 195px;
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+.project .card .img3 {
+    height: 195px;
+    width: 503px ;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.project .card-details-badge {
+    background-color: #ac84e0;
+    text-align: center;
+    color: whitesmoke;
+    border-radius: 40px 40px;
+    padding: 7px 10px;
+    font-size: 14px;
+    margin: 2px 4px;
+}
+
+.project .card-details-badge:hover {
+    color: greenyellow;
+    background-color: tomato;
+}
+
+.project .card-image-overly {
+    font-size: 20px;
+}
+
+.project .card-image-overly span {
+    display: inline-block;
+    margin-left: 5px;
+    color: white;
+}
+
+.ad-btn {
+    text-transform: uppercase;
+    width: 121px;
+    height: 35px;
+    display: block;
+    background-color: #007bff;
+    color: #ffffff;
+    border-radius: 21px 26px;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 15px;
+    margin: 28px auto 25px auto;
+    padding: 11px;
+    font-size: 16px;
+    overflow: hidden;
+    position: relative;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+}
+
+.ad-btn:hover {
+    background-color: #0056b3;
+    /* Darker blue color on hover */
+}
+
+.project .card:hover {
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 12px 15px 20px 0px rgba(0, 0, 0, 0.45);
+    transition: all 0.5s ease;
+}
+/* -----------------Media queary---------------- */
+/* @media (max-width:600){
+    .home-container{
+      padding: 0;
+      margin: 0;
+      margin-top: 30px;
+    } */

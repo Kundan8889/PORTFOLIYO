@@ -1,0 +1,35 @@
+.techstack{
+    padding-left: 130px;
+    margin-top: 60px;
+}
+.techstack hr{
+    color: #138781;
+    width: 400px;
+    margin: 10px auto;
+}
+.techstack h2{
+    font-weight: bold;
+    color: #138781;
+}
+.techstack .card{
+    cursor: pointer;
+    margin: 15px;
+    padding: 10px 14px;
+}
+.techstack .tech-icon{
+    font-size: 2rem;
+    margin-right: 10px;
+    
+ }
+ .techstack .card:hover{
+    background-color: yellow;
+   color: red;
+   border: none;
+   transition: 1s;
+   box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+    
+ }
+ 
+ #ads{
+    margin: 30px 0px 30px 0;
+ }
